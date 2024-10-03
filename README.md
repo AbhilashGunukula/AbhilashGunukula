@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhigunukula354@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AbhilashGunukula/Resume/blob/main/Abhilash%20Reddy%20-%20New%20Resume%20v1.pdf](https://github.com/AbhilashGunukula/Resume/blob/main/Abhilash%20Reddy%20-%20New%20Resume%20v1.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/AbhilashGunukula/Resume/blob/main/Abhilash%20Reddy%20-%20New%20Resume%20v1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
