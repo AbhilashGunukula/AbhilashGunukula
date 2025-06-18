@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash Reddy Gunukula</h1>
-<h3 align="center">A passionate backend developer with a focus on creating robust applications and optimizing data solutions.</h3>
+<h3 align="center">A passionate full stack developer with a focus on creating robust applications and optimizing data solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashgunukula&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashgunukula" /> </p>
 
