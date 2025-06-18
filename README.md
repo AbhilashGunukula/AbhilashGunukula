@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DeepLearning techniques**
 
-- 💬 Ask me about **Backend Development & Software Development Life Cycle**
+- 💬 Ask me about **FullStack Development & Software Development Life Cycle**
 
 - 📫 How to reach me **abhigunukula354@gmail.com**
 
